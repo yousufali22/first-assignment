@@ -61,15 +61,15 @@ font-size: 72px;
     width: 600px;
     height: 60px;
     font-size: 18px;
-    padding-left: 126px;
-    padding-right: 497px;
+    
 }
 .Place{
     color: red;
 }
 .pdt{
     background-color: antiquewhite;
-    height: 350px;
+
+    height: 300px;
     text-align: center;
     padding: 100px;
     margin: 50px 200px;
@@ -83,4 +83,44 @@ font-size: 72px;
     background: #F00;
     font-size: 20px;
     color: white;
+    border: 0;
+}
+.mmain{
+    display: list-item;
+}
+.best-offer{
+    color: red;
+}
+.coming-soon{
+color: #070211;
+font-size: 48px;
+}
+.dolor-sit{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+.ellipse{
+    width: 300px;
+height: 300px;
+border: 10px solid red;
+padding: 10px;
+border-radius: 175px;
+}
+.year{
+    color: #F00;
+font-size: 48px;
+}
+.dolor-sed{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+}
+.img96{
+    width: 140px;
+height: 140px;
+flex-shrink: 0;
 }
