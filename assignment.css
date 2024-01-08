@@ -34,8 +34,53 @@
     margin: 20px 140px;
     height: 600px;
     color: white;
+    padding: 20px 200px 30px 50px;
+    border: 2px solid white;
+    
 }
 .vectorp{
-    width: 106px;
-    height: 148px;
+    width: 319px;
+    height: 200px;
+    position: relative;
+    bottom: 200px;
+    right: 30px;
+    top: 20px;
+    left: 900px;
+    
+    
+    
+}
+.welcome{
+    
+height: 176px;
+width: 500px;
+font-size: 72px;
+
+}
+.dolor{
+    width: 600px;
+    height: 60px;
+    font-size: 18px;
+    padding-left: 126px;
+    padding-right: 497px;
+}
+.Place{
+    color: red;
+}
+.pdt{
+    background-color: antiquewhite;
+    height: 350px;
+    text-align: center;
+    padding: 100px;
+    margin: 50px 200px;
+    border-radius: 10px;
+    font-size: 15px; 
+}
+.join{
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    background: #F00;
+    font-size: 20px;
+    color: white;
 }
