@@ -49,14 +49,15 @@ font-size: 48px;
     background-repeat: no-repeat;
     margin: 20px auto;
     height: 550px;
-    color: white;
+    
     padding: 20px 200px 30px 50px;
     border: 2px solid white;
     
 }
 .vectorp{
     width: 329px;
-    height: 450px;
+    height: 250px;
+    
     position: relative;
     bottom: 300px;
     left: 800px;   
@@ -69,7 +70,7 @@ bottom: 420px;
 right: 300px;
 }
 .welcome{
-    
+ color: white;   
 height: 176px;
 width: 500px;
 font-size: 72px;
@@ -79,6 +80,7 @@ font-size: 72px;
     width: 600px;
     height: 60px;
     font-size: 18px;
+    color: white;
     
 }
 .Place{
@@ -152,6 +154,8 @@ flex-shrink: 0;
     color: #070211;
 font-size: 24px;
 text-align: center;
+position: relative;
+top: 40px;
 }
 .holiday{
     
@@ -163,16 +167,11 @@ font-size: 72px;
 }
 .Dolor-sit-amet{
     color: rgba(7, 2, 17, 0.60);
-
 text-align: center;
-font-family: Inter;
 font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 32px;
-width: 750px;
-padding: 0 32%;
-
+padding: 0 345px;
+position: relative;
+bottom: 30px;
 
 }
 .rec2{
@@ -184,18 +183,33 @@ padding: 0 32%;
     height: 550px;
     width: 600px;
     position: relative;
-    left: 200px;
+    left: 50px;
     
 }
 .rec1{
     width: 329px;
     height: 333px;
     position: relative;
-    left: 563px;
+    left: 388px;
     bottom: 224px;
 }
 .group44{
     position: relative;
-    left: 50px;
+    right: 80px;
     bottom: 240px;
+}
+.the-best{
+color: #F00;
+font-size: 24px;
+position: relative;
+top: 20px;
+}
+.our-awesome{
+    color: #070211;
+font-size: 48px;
+}
+.dolor-sit-amet-consectetur{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+width: 896px;
 }
