@@ -1,16 +1,20 @@
 .add-img{
     background-image: url(images/Banner\ Image.png);
     background-repeat: no-repeat;
-    margin: 20px 140px;
+    margin: 20px auto;
     height: 600px;
     text-align: center;
     color: white;
+    
 }
 .happy{
     font-size: 32px;
     width: 259px;
     height: 40px;
     padding: 177px 530px 0px;
+    position: relative;
+    top: 30px;
+    right: 30px;
 }
 .new-year{
     font-size: 72px;
@@ -18,37 +22,51 @@
     width: 695px;
     height: 32px;
     padding: 0px 344px 177px;
+    position: relative;
+    right: 60px;
+    bottom: 35px;
+    
 }
 .div2{
     text-align: center;
 }
 .off{
     color: #F00;
+    font-size: 88px;
+}
+.all-category{
+    color: #070211;
+font-size: 48px;
 }
 .our{
-    color: #F00; 
+    color: #F00;
+    font-size: 24px;
+    position: relative;
+    top: 25px;
 }
 .vector{
     background-image: url(images/Vectorrr.png);
     background-repeat: no-repeat;
-    margin: 20px 140px;
-    height: 600px;
+    margin: 20px auto;
+    height: 550px;
     color: white;
     padding: 20px 200px 30px 50px;
     border: 2px solid white;
     
 }
 .vectorp{
-    width: 319px;
-    height: 200px;
+    width: 329px;
+    height: 450px;
     position: relative;
-    bottom: 200px;
-    right: 30px;
-    top: 20px;
-    left: 900px;
-    
-    
-    
+    bottom: 300px;
+    left: 800px;   
+}
+.join-now{
+    color: #FFF;
+font-size: 20px;
+position: relative;
+bottom: 420px;
+right: 300px;
 }
 .welcome{
     
@@ -87,10 +105,10 @@ font-size: 72px;
 }
 .main{
     display: flex;
-    justify-content: space-between;
-    padding: 100px 210px;
-    
-    
+    margin-left: 20px; 
+}
+.margin{
+    margin: auto;
 }
 .best-offer{
     color: red;
