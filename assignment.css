@@ -4,7 +4,7 @@
     margin: 20px auto;
     height: 600px;
     text-align: center;
-    color: white;
+    color: rgb(204, 192, 192);
     
 }
 .happy{
@@ -14,7 +14,7 @@
     padding: 177px 530px 0px;
     position: relative;
     top: 30px;
-    right: 30px;
+    right: 40px;
 }
 .new-year{
     font-size: 72px;
@@ -114,10 +114,14 @@ font-size: 72px;
 }
 .best-offer{
     color: red;
+    position: relative;
+    top: 30px;
 }
 .coming-soon{
 color: #070211;
 font-size: 48px;
+position: relative;
+top: 20px;
 }
 .dolor-sit{
     color: rgba(7, 2, 17, 0.60);
@@ -139,16 +143,21 @@ border-radius: 175px;
 .year{
     color: #F00;
 font-size: 48px;
+position: relative;
+top: 25px;
 }
 .dolor-sed{
     color: rgba(7, 2, 17, 0.60);
 font-size: 20px;
 width: 300px;
+
 }
 .img96{
     width: 150px;
 height: 150px;
 flex-shrink: 0;
+
+
 }
 .what-is{
     color: #070211;
@@ -190,7 +199,7 @@ bottom: 30px;
     width: 329px;
     height: 333px;
     position: relative;
-    left: 388px;
+    left: 394px;
     bottom: 224px;
 }
 .group44{
@@ -293,6 +302,9 @@ border: 0;
     text-align: center;
     position: relative;
     bottom: 50px;
+}
+.inst{
+    margin-right: 10px;
 }
 .all-right{
 font-size: 24px;
