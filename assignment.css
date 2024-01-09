@@ -15,8 +15,8 @@
 .new-year{
     font-size: 72px;
     text-align: center;
-    width: 632px;
-    height: 190px;
+    width: 695px;
+    height: 32px;
     padding: 0px 344px 177px;
 }
 .div2{
@@ -85,8 +85,12 @@ font-size: 72px;
     color: white;
     border: 0;
 }
-.mmain{
-    display: list-item;
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 210px;
+    
+    
 }
 .best-offer{
     color: red;
@@ -103,6 +107,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: 32px; 
+width: 500px;
 }
 .ellipse{
     width: 300px;
@@ -118,9 +123,61 @@ font-size: 48px;
 .dolor-sed{
     color: rgba(7, 2, 17, 0.60);
 font-size: 20px;
+width: 300px;
 }
 .img96{
-    width: 140px;
-height: 140px;
+    width: 150px;
+height: 150px;
 flex-shrink: 0;
+}
+.what-is{
+    color: #070211;
+font-size: 24px;
+text-align: center;
+}
+.holiday{
+    
+text-align: center;
+font-size: 72px;
+}
+.holi{
+    color: #F00;
+}
+.Dolor-sit-amet{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+width: 750px;
+padding: 0 32%;
+
+
+}
+.rec2{
+    background-image: url(images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.group75{
+    height: 550px;
+    width: 600px;
+    position: relative;
+    left: 200px;
+    
+}
+.rec1{
+    width: 329px;
+    height: 333px;
+    position: relative;
+    left: 563px;
+    bottom: 224px;
+}
+.group44{
+    position: relative;
+    left: 50px;
+    bottom: 240px;
 }
